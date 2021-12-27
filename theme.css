@@ -485,35 +485,3 @@
 .userPopout-xaxa6l .wrapper-3t9DeA::after {
   z-index: unset;
 }
-.rtcConnectionStatusConnected-VRZDjy>div {
-  font-size: 0;
-  display: flex;
-  align-items: center;
-}
-
-.rtcConnectionStatusConnected-VRZDjy>div::after {
-  content: 'High as Fuck';
-  font-size: 14px;
-}
-
-.rtcConnectionStatusConnecting-3322Pa>div {
-  font-size: 0;
-  display: flex;
-  align-items: center;
-}
-
-.rtcConnectionStatusConnecting-3322Pa>div::after {
-  content: 'Rolling Joints';
-  font-size: 14px;
-}
-
-.rtcConnectionStatusError-2hLzrL>div {
-  font-size: 0;
-  display: flex;
-  align-items: center;
-}
-
-.rtcConnectionStatusError-2hLzrL>div::after {
-  content: 'Bad Trip';
-  font-size: 14px;
-}
